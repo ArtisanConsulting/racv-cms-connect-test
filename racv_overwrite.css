@@ -1,3 +1,5 @@
+/* Overwrite Salesforce Default CSS */
+
 .siteforceContentArea .comm-layout-column:not(:empty) {
     /* padding-top: 0;
     padding-bottom: 0; */
