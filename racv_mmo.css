@@ -128,7 +128,7 @@ summary {
 @font-face {
     font-family: racv;
     src: url(../fonts/racv.eot);
-    src: url('../fonts/a racv.eot?#iefix') format("embedded-opentype"), url(../fonts/racv.woff) format("woff"), url(racv-cms-connect-test/fonts/racv.ttf) format("truetype"), url(../fonts/racv.svg#racv) format("svg");
+    src: url('../fonts/a racv.eot?#iefix') format("embedded-opentype"), url(fonts/racv.woff) format("woff"), url(fonts/racv.ttf) format("truetype"), url(../fonts/racv.svg#racv) format("svg");
     font-style: normal;
     font-weight: 400
 }
