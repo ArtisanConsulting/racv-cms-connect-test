@@ -10,3 +10,10 @@
     padding: 0 !important;
 }
 
+
+.slds-modal__container{
+    max-width: 200rem !important;
+    width:80% !important;
+}
+
+
